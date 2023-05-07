@@ -1,4 +1,4 @@
-# Rosalind_Solutions
+# Rosalind　Solutions
 ***
 
 This is my rosalind solution repository.
@@ -6,7 +6,7 @@ The code is still immature and poorly written, but we will accumulate the soluti
 
 [ROSALIND](https://rosalind.info/problems/locations/)
 
-##### About Rおsalind
+##### About Rsalind
 
 > Learning bioinformatics usually requires solving computational problems of varying difficulty that are extracted from real challenges of molecular biology.
 > 
